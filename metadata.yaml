@@ -14,6 +14,8 @@ creator:
 description: "To Whom This May Come is a short story by an American author called\
   \ Edward Bellamy. The story was first published in February 1889 in Harper's New\
   \ Monthly Magazine.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22704#To-Whom-This-May-Come1898
 gutenberg_issued: '2007-09-21'
 gutenberg_type: Text
 identifiers:
