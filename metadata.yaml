@@ -1,0 +1,36 @@
+_repo: To-Whom-This-May-Come1898_22704
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bellamy, Edward
+    birthdate: 1850
+    deathdate: 1898
+    gutenberg_agent_id: '327'
+    url: http://www.gutenberg.org/2009/agents/327
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Bellamy
+description: "To Whom This May Come is a short story by an American author called\
+  \ Edward Bellamy. The story was first published in February 1889 in Harper's New\
+  \ Monthly Magazine.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2007-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22704'
+  wikidata: Q7811172
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+title: 'To Whom This May Come
+
+  1898'
+url: http://www.gutenberg.org/ebooks/22704
+wikipedia:
+- https://bn.wikipedia.org/wiki/%E0%A6%9F%E0%A7%81_%E0%A6%B9%E0%A7%81%E0%A6%AE_%E0%A6%A6%E0%A6%BF%E0%A6%9C_%E0%A6%AE%E0%A7%87_%E0%A6%95%E0%A6%BE%E0%A6%AE
+- https://en.wikipedia.org/wiki/To_Whom_This_May_Come
